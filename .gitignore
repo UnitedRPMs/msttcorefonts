@@ -1,0 +1,8 @@
+BUILD/*
+BUILDROOT/*
+RPMS/*
+SPECS/*
+SRPMS/*
+msttcorefonts*.tar.gz
+.directory
+*.exe
