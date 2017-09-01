@@ -1,6 +1,7 @@
 # This is the msttcorefonts spec file as distributed from
 # http://corefonts.sourceforge.net/. 
 
+%global debug_package %{nil}
 %define name msttcorefonts
 
 # nowdays most (all?) distributions seems to use this. Oh the joys of the FHS
