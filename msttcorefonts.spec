@@ -34,7 +34,7 @@ cd %{name}/downloads
 
 # this is the sourceforge mirrorlist as of 2012-09-06. If someone spots changes
 # over at sourceforge, feel free to email me and I'll update the list
-mirrors="cdnetworks-kr-1+citylan+dfn+freefr+garr+heanet+hivelocity+ignum+internode+iweb+jaist+nchc+netcologne+space+superb-dca2+superb-dca3+superb-sea2+switch+tenet+ufpr+waix+aarnet"
+mirrors="cdnetworks-kr-1+citylan+dfn+freefr+garr+heanet+hivelocity+ignum+internode+iweb+jaist+nchc+netcologne+space+switch+tenet+ufpr+waix+aarnet"
 mirror_count=23
 
 andale32_md5="cbdc2fdd7d2ed0832795e86a8b9ee19a  andale32.exe"
